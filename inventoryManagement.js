@@ -1,6 +1,6 @@
 const products = ["laptop", "phone", "headphones", "monitor"];
 function logFirstProduct() {
-  console.log(products[0];
+  console.log(products[0]);
   }
   function addProduct(productName) {
     products.push(productName);
